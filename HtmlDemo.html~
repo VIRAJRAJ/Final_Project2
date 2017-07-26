@@ -1,7 +1,7 @@
 <!Doctype html>
    <html>
 	       <head>
-		          <title>Html Demo</title>
+		          <title>html demo</title>
 		     <style>
 			      p
 			   {
@@ -23,10 +23,10 @@
 			                    VIKAS RAJ
 		                  </h1>
 		                  <p>
-			                Hi this is Vikas Raj student in baddi university.
+			                Hi this is  Sandeep Vvikas raj BE student in baddi university.
 	                   	</p>
 	                  	<p>MCA Final year student</p>
-		                  <h2 class="demo">Software testing</h2>
+		                  <h2 class="demo">This is heading 2</h2>
 		                  <input class="demo" type="email">
 		                  <input id="demoid1" type="submit">
               	</body>
